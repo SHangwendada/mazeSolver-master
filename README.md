@@ -1,3 +1,10 @@
+# mazeSolver-master
+![image](https://github.com/user-attachments/assets/a3e973c9-e545-42e3-af6c-f657cf8c4b94)
+
+![image](https://github.com/user-attachments/assets/2ade7f4a-38ea-4ddb-a716-607fde461380)
+
+![image](https://github.com/user-attachments/assets/2cdbfd20-8b28-4947-a391-2e1ef39c7333)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,4 +41,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# mazeSolver-master
+
